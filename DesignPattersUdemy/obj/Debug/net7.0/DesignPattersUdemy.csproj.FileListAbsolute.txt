@@ -1,0 +1,15 @@
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\bin\Debug\net7.0\DesignPattersUdemy.exe
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\bin\Debug\net7.0\DesignPattersUdemy.deps.json
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\bin\Debug\net7.0\DesignPattersUdemy.runtimeconfig.json
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\bin\Debug\net7.0\DesignPattersUdemy.dll
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\bin\Debug\net7.0\DesignPattersUdemy.pdb
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.csproj.AssemblyReference.cache
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.AssemblyInfoInputs.cache
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.AssemblyInfo.cs
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.csproj.CoreCompileInputs.cache
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.dll
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\refint\DesignPattersUdemy.dll
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.pdb
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\DesignPattersUdemy.genruntimeconfig.cache
+C:\COMPSESA\DesignPattersUdemy\DesignPattersUdemy\obj\Debug\net7.0\ref\DesignPattersUdemy.dll
